@@ -1,0 +1,7 @@
+C:\Users\XPC\source\repos\Examen # 1\Examen # 1\bin\Debug\Examen # 1.exe.config
+C:\Users\XPC\source\repos\Examen # 1\Examen # 1\bin\Debug\Examen # 1.exe
+C:\Users\XPC\source\repos\Examen # 1\Examen # 1\bin\Debug\Examen # 1.pdb
+C:\Users\XPC\source\repos\Examen # 1\Examen # 1\obj\Debug\Examen # 1.csproj.AssemblyReference.cache
+C:\Users\XPC\source\repos\Examen # 1\Examen # 1\obj\Debug\Examen # 1.csproj.CoreCompileInputs.cache
+C:\Users\XPC\source\repos\Examen # 1\Examen # 1\obj\Debug\Examen # 1.exe
+C:\Users\XPC\source\repos\Examen # 1\Examen # 1\obj\Debug\Examen # 1.pdb
